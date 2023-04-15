@@ -2,8 +2,11 @@
 chat gpt4 api
 
 # install
-copy your OPENAI API TOKEN into `.env`
+copy your OPENAI API TOKEN into `.env`:
+```
+OPENAI_API_KEY=your_openai_api_key
+```
 
 # pre-req
-nodejs
+nodejs &
 `npm install .`
